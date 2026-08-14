@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dance Depth Video"
+  short_description: "Create depth-motion references and MaybeAI video payloads"
+  default_prompt: "Use $dance-depth-reference-video to create a depth reference and a validated MaybeAI character-animation payload."
